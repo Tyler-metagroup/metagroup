@@ -1,0 +1,11 @@
+# MetaGroupIM Content Manifest
+metadata:
+  owner: MetaGroupIM
+  classification: Internal-Only
+  last_updated: 2026-06-07
+
+content:
+  hero_title: "Secure Collaborative Framework"
+  description: "Proprietary implementation details."
+  allowed_domains:
+    - metagroupim.com
