@@ -1,0 +1,13 @@
+{
+  "project_name": "MetaGroupIM",
+  "version": "1.0.0",
+  "environment": "production",
+  "features": {
+    "enable_logging": true,
+    "maintenance_mode": false
+  },
+  "api_settings": {
+    "timeout": 5000,
+    "retry_limit": 3
+  }
+}
