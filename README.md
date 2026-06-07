@@ -23,6 +23,7 @@ This document serves as the primary README for the **metagroupim.com** project. 
 This source code is provided for viewing purposes only. No license is granted 
 to use, modify, distribute, or create derivative works from this codebase. 
 Unauthorized copying is strictly prohibited.
+You may not fork, or make a pull-request, you may only create an issue.
 ---
 
 ## Authorization Matrix
