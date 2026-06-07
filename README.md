@@ -1,12 +1,13 @@
+
 # MetaGroupIM Document Control
-![about](images/about-meta.png)
+![about](images/document.png)
 
 | Document ID | Version | Status | Date | Prepared By | Approved By |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | MGIM-RM-001 | 1.0.0 | Draft | 2026-06-07 | Development Team | Management |
 
 ---
-
+![about](images/about-meta.png)
 ## Revision History
 
 * **Version 1.0.0 (2026-06-07):** Initial document creation and structural setup for metagroupim.com repository.
