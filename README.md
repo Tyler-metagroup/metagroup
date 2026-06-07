@@ -1,4 +1,5 @@
 # MetaGroupIM Document Control
+![about](images/about-meta.png)
 
 | Document ID | Version | Status | Date | Prepared By | Approved By |
 | :--- | :--- | :--- | :--- | :--- | :--- |
