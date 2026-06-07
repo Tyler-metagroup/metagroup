@@ -17,7 +17,12 @@ This document serves as the primary README for the **metagroupim.com** project. 
 
 ## Confidentiality Notice
 > **RESTRICTED:** This repository contains proprietary information related to MetaGroupIM. Unauthorized distribution, reproduction, or disclosure of these materials is strictly prohibited.
+## License
+© 2026 MetaGroupIM. All rights reserved.
 
+This source code is provided for viewing purposes only. No license is granted 
+to use, modify, distribute, or create derivative works from this codebase. 
+Unauthorized copying is strictly prohibited.
 ---
 
 ## Authorization Matrix
